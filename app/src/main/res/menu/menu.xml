@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"/>
+    <item android:id="@+id/Nhacungcap"
+        android:title="Nhà cung cấp"
+        android:icon="@drawable/baseline_person_pin_24"/>
+    <item android:id="@+id/ResetPass"
+        android:title="Đổi mật khẩu"
+        android:icon="@drawable/baseline_lock_reset_24"/>
+</menu>
